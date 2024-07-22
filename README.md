@@ -1,2 +1,1 @@
-# login-
-A login system using PHP
+# login-php-project
